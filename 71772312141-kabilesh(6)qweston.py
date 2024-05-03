@@ -1,0 +1,11 @@
+name=['aditi','murali','adithiya','girish','ankit','meenal']
+rollno=['12','43','45','50','66','21']
+marks=['90','45','82','75','95','65']
+t1=tuple(name)
+t2=tuple(rollno)
+t3=tuple(marks)
+lst=[t1,t2,t3]
+print(lst)
+print(t1)
+print(t2)
+print(t3)

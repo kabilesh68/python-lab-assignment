@@ -33,3 +33,23 @@ else:
     loss_per=net/tot*100
     print(f'net amount lost:{net:.2f}')
     print(f'percentage loss:{loss_per:.2f}')
+output:
+enter no.of companies:3
+enter name:kabilesh
+enter no.of shares:100
+enter date of purchase:1/04/2024
+enter cost price:145
+enter selling price:186
+enter name:infosys
+enter no.of shares:90
+enter date of purchase:2/04/2024
+enter cost price:775
+enter selling price:800
+enter name:tata motor
+enter no.of shares:120
+enter date of purchase:3/04/2024
+enter cost price:785
+enter selling price:678
+total cost of portfolio:178450.00
+net amount lost:6490.00
+percentage:3.64

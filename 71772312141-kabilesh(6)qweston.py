@@ -9,3 +9,8 @@ print(lst)
 print(t1)
 print(t2)
 print(t3)
+output:
+[('adithi','murali','adithiya','girish','ankit','meenal'),('12','43','45','50','66','21'),('90','45','82','75','95','65')]
+('adithi','murali','adithiya','girish','ankit','meenal')
+('12','43','45','50','66','21')
+('90','45','82','75','95','65')

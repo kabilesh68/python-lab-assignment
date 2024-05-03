@@ -24,3 +24,5 @@ s2=sum(days2[0:m2-1])
 tdays2+=s2
 diff=tdays2-tdays1
 print('difference in days=',diff)
+output:
+difference in days=4779
